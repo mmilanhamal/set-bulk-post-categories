@@ -1,0 +1,1 @@
+# set-bulk-post-categories
